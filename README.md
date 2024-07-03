@@ -51,3 +51,7 @@ Verbinde die Pins des Keypads und des LCD-Displays wie folgt mit dem Arduino:
 | GND        | GND          |
 | SDA        | A4   / SDA        |
 | SCL        | A5   / DCL        |
+
+## Autoren
+
+- Julian Seipp / Hexnumber
